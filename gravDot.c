@@ -4,7 +4,7 @@
  
 int main()
 {
-    int ch, row, col, ypos, xpos, i;
+    int row, col, ypos, xpos, i;
     chtype dot = '*';
     float grav = 0.25;
 
